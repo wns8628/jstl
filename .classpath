@@ -13,7 +13,11 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+<<<<<<< HEAD
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jdbc-mysql">
+=======
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jstl">
+>>>>>>> branch 'master' of https://github.com/wns8628/jstl.git
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>guestbook2</name>
+=======
+	<name>jstl</name>
+>>>>>>> branch 'master' of https://github.com/wns8628/jstl.git
 	<comment></comment>
 	<projects>
 	</projects>
